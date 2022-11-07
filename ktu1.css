@@ -1,0 +1,382 @@
+body{
+    padding: 0%;
+    height: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    margin: 0%;
+}
+
+
+
+.container
+
+{
+    height: 100%;
+}
+.header
+{
+    background-color: #d0e1f4;
+    border-bottom: 3px solid #3671b9;
+    width: 100%;
+    height: 38px;
+}
+
+.logo img
+{
+    position: relative;
+    left: 16px;
+    width: 30px;
+  
+
+}
+.logo a {
+    font-size: 20px;
+    position: relative;
+    left: 25px;
+    bottom: 15px;
+    text-decoration: none;
+    color: #3671B9;
+}
+
+.logo a:hover
+{
+    cursor: pointer;
+    color: rgb(106, 59, 59);
+}
+
+.navlisti li a {
+    font-weight: 1000;
+    position: relative;
+    left: 425px;
+    font-family: Helvetica;
+    font-size: 15px;
+    color: rgb(20, 17, 17);
+    text-decoration: none;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+
+.navlisti{
+    list-style: none;
+}
+
+.navlisti li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.navlisti li a:hover{
+    color: sandybrown;
+}
+
+.navlisti {
+    margin-left: 524px;
+    bottom: 51px;
+    position: relative;
+}
+
+#homei {
+    background-color: #52a0ff;
+    padding: 11px;
+}
+
+
+.maintextbox {
+    background-color: white;
+    position: relative;
+    left: 10px;
+    top: 52px;
+    width: 1110px;
+    height: 831px;
+}
+
+
+.texthead {
+    background-color: #3671B9;
+    width: 100%;
+    height: 58px;
+    border-radius: 10px;
+}
+
+.texthead h3 {
+    margin: 5px;
+    font-size: 24px;
+    font-family: inherit;
+    font-weight: 500;
+    color: inherit;
+    top: 18px;
+    position: relative;
+    color: white;
+}
+
+.textbox1
+{
+    background-color:#f5f5f5;
+    width: 100%;
+    height: 257.6px;
+    border-radius: 10px;
+}
+
+.textbox1 img {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 94px;
+}
+
+
+.textbox1 h3 {
+    position: relative;
+    left: 101px;
+    font-size: 24px;
+    /* top: 3px; */
+    bottom: 98px;
+}
+
+.textbox1 p{
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+.text1 {
+    margin-left: 28px;
+    position: relative;
+    bottom: 47px;
+}
+
+
+
+
+
+.textbox2 {
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 257.6px;
+    border-radius: 10px;
+    position: relative;
+    /* bottom: -3px; */
+    top: 2px;
+}
+
+.textbox2 img {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 94px;
+}
+
+
+.textbox2 h3 {
+    position: relative;
+    left: 101px;
+    font-size: 24px;
+    /* top: 3px; */
+    bottom: 98px;
+}
+
+.textbox2 p{
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+.text2 {
+    margin-left: 28px;
+    position: relative;
+    bottom: 47px;
+}
+
+
+
+
+
+
+
+
+.textbox3 {
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 258.6px;
+    border-radius: 10px;
+    position: relative;
+    /* bottom: -3px; */
+    top: 3px;
+}
+
+.textbox3 img {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    height: 94px;
+}
+
+
+.textbox3 h3 {
+    position: relative;
+    left: 101px;
+    font-size: 24px;
+    /* top: 3px; */
+    bottom: 94px;
+}
+
+.textbox3 p{
+    font-size: 14px;
+    line-height: 1.6em;
+}
+
+.text3 {
+    margin-left: 28px;
+    position: relative;
+    bottom: 47px;
+}
+.signinbox {
+    background-color: #f5f5f5;
+    width: 367px;
+    height: 344px;
+    position: relative;
+    bottom: 797px;
+    left: 1144px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.textbox {
+    position: relative;
+    right: 1px;
+    bottom: 0px;
+    width: 100%;
+    border-radius: 5px;
+    height: 18%;
+    background-color: #6facf5;
+    border: 1px solid;
+}
+
+
+.textbox h3 {
+    padding-left: 13px;
+    left: 6px;
+    margin-top: 17px;
+    /* padding-bottom: 2px; */
+    width: 23%;
+    /* top: 1px; */
+    font-size: 22px;
+    /* bottom: 11px; */
+}
+
+
+.username {
+    position: relative;
+    left: 20px;
+    top: 18px;
+    width: 90%;
+}
+
+.usernamebox
+{
+   
+        height: 26px;
+        width: 315px;
+ 
+}
+
+.password {
+    position: relative;
+    top: 30px;
+}
+
+.Passwordbox
+{
+   
+        height: 26px;
+        width: 315px;
+ 
+}
+.loginbutton {
+    width: 141px;
+    position: relative;
+    top: 57px;
+    left: 91px;
+    height: 35px;
+    background-color: #82ef82;
+    border: none;
+    border-radius: 11px;
+}
+
+#forgotpassword {
+    position: relative;
+    top: 122px;
+    left: 54px;
+    text-decoration: none;
+}
+
+
+
+
+.footer {
+    width: 100%;
+    height: 224px;
+    background-color: #3671b9;
+    /* margin-bottom: 13px; */
+    bottom: 240px;
+    position: relative;
+}
+
+
+
+
+
+.footer p {
+    color: white;
+    position: relative;
+    top: 51px;
+    width: 30%;
+    left: 507px;
+}
+.footer h3 {
+    position: relative;
+    bottom: 39px;
+    float: right;
+    right: 176px;
+}
+
+.icons i {
+    top: 10px;
+    float: right;
+    position: relative;
+    width: 33px;
+    right: 71px;
+}
+
+.icons i:hover{
+    color: white;
+    cursor: pointer;
+}
+.footlisti li a {
+    font-weight: 1000;
+    position: relative;
+    top: 173px;
+    right: 141px;
+    font-family: Helvetica;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    letter-spacing: normal;
+    font-weight: bold;
+}
+
+.footlisti{
+    list-style: none;
+}
+
+.footlisti li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+.footlisti li a:hover{
+    color: black;
+}
+
+.footlisti {
+    margin-left: 524px;
+    bottom: 51px;
+    position: relative;
+}
