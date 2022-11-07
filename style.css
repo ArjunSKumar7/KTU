@@ -48,7 +48,7 @@ body{
 .navlisti li a {
     font-weight: 1000;
     position: relative;
-    left: 425px;
+    left: 373px;
     font-family: Helvetica;
     font-size: 15px;
     color: rgb(20, 17, 17);
@@ -71,7 +71,7 @@ body{
 }
 
 .navlisti {
-    margin-left: 524px;
+    margin-left: 523px;
     bottom: 51px;
     position: relative;
 }
@@ -86,7 +86,7 @@ body{
     position: relative;
     left: 10px;
     top: 52px;
-    width: 1110px;
+    width: 1013px;
     height: 831px;
 }
 
