@@ -17,10 +17,10 @@ body{
     border-bottom: 3px solid #3671b9;
     width: 100%;
     right: 0px;
+    /* left: 10px; */
     height: 38px;
     position: relative;
 }
-
 .logo img
 {
     position: relative;
@@ -81,13 +81,12 @@ body{
     padding: 11px;
 }
 
-
 .maintextbox {
     background-color: white;
     position: relative;
     left: 10px;
     top: 52px;
-    width: 1038px;
+    width: 1110px;
     height: 831px;
 }
 
