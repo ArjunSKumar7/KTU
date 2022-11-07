@@ -12,12 +12,13 @@ body{
 {
     height: 100%;
 }
-.header
-{
+.header {
     background-color: #d0e1f4;
     border-bottom: 3px solid #3671b9;
     width: 100%;
+    right: 0px;
     height: 38px;
+    position: relative;
 }
 
 .logo img
@@ -42,6 +43,7 @@ body{
     cursor: pointer;
     color: rgb(106, 59, 59);
 }
+
 
 .navlisti li a {
     font-weight: 1000;
@@ -85,10 +87,9 @@ body{
     position: relative;
     left: 10px;
     top: 52px;
-    width: 1110px;
+    width: 1038px;
     height: 831px;
 }
-
 
 .texthead {
     background-color: #3671B9;
